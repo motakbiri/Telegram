@@ -6323,6 +6323,7 @@
 		09F342D01E5A28A2005CB7AD /* TGMediaLiveUploadWatcher.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGMediaLiveUploadWatcher.h; sourceTree = "<group>"; };
 		09F342D11E5A28A2005CB7AD /* TGMediaLiveUploadWatcher.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGMediaLiveUploadWatcher.m; sourceTree = "<group>"; };
 		09F342E61E5C9654005CB7AD /* voip_connecting.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = voip_connecting.mp3; path = Resources/voip_connecting.mp3; sourceTree = "<group>"; };
+		0AE6CF9C1F55F6A0006A0C9D /* config.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
 		6803268D1D5D74FF0062725B /* TGPhotoPaintSettingsWrapperView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGPhotoPaintSettingsWrapperView.h; sourceTree = "<group>"; };
 		6803268E1D5D74FF0062725B /* TGPhotoPaintSettingsWrapperView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TGPhotoPaintSettingsWrapperView.m; sourceTree = "<group>"; };
 		680326911D5DFC640062725B /* TGPaintingData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TGPaintingData.h; sourceTree = "<group>"; };
@@ -20527,6 +20528,7 @@
 		D08805A1156E8F3600311537 = {
 			isa = PBXGroup;
 			children = (
+				0AE6CF9C1F55F6A0006A0C9D /* config.h */,
 				D0B9B19419CA324D0020C9CF /* LaunchScreen.xib */,
 				D0DAA484197496240036E709 /* Icon-76.png */,
 				D0C6748E1CB8640400183765 /* Icon-167.png */,
